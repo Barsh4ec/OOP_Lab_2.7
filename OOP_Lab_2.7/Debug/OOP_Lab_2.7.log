@@ -1,0 +1,13 @@
+﻿  Account.cpp
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(229,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(259,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(289,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(386,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(401,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(418,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(439,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(453,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+C:\Users\User\source\repos\OOP_Lab_2.7\OOP_Lab_2.7\Account.cpp(405): warning C4715: 'Account::Subtract': not all control paths return a value
+  OOP_Lab_2.7.vcxproj -> C:\Users\User\source\repos\OOP_Lab_2.7\Debug\OOP_Lab_2.7.exe
